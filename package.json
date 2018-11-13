@@ -1,0 +1,11 @@
+{
+  "name": "local-chain",
+  "version": "1.0.0",
+  "description": "Set up a local blockchain running Ethereum using ganache-cli",
+  "bin": {
+    "docsha-chain": "./index.js"
+  },
+  "author": "revan darth",
+  "license": "MIT",
+  "dependencies": {}
+}
